@@ -1,0 +1,24 @@
+Séance du 23/10
+
+3 idées qui correspondent aux 3 pans du cours : (proposé et validé par le chargé de TD)
+visualisation des réseaux de transports verts (aires de covoit, train, pistes cyclables et stations vélos,...)
+API : récupération des points d’intérêt sur google maps (+ données sur les flux dans ces lieux sur data gouv)
+Est-ce que les points d’intérêts sont les endroits les mieux desservis par les réseaux de transport verts ? (question de la densité des réseaux, de la distance aux points d’intérêts,...)
+Application : trajet du touriste vert modèle en Corse -> faire son trajet entre deux points 
+
+https://opendata.ca-ajaccien.corsica/ouverture-des-donnees-publiques-du-pays-ajaccien/donnees/transport/ : données ajaccien sur le transport 
+
+https://www.statistiques.developpement-durable.gouv.fr/transports : données conseillées par Lina Galiana 
+
+lien data.gouv avec les pistes cyclables et les aires de covoiturage 
+
+=> Pas forcément de ML !!!!!!! 
+
+API : https://www.e-monsite.com/pages/tutoriels/configuration-avancee-du-site/obtenir-une-cle-google-maps-api.html
+
+
+Idees : 
+est-ce qu’il y a un lien entre certains types de transports et certains types de lieux touristiques ? 
+cf la dernière carte de Vinciane avec les pistes cyclables et les offices de tourismes -> on peut essayer de voir ce que chaque type de transport permet de faire ?
+
+
