@@ -16,4 +16,4 @@ prolongement_meteo : donne en temps réel la météo pour le cycliste (températ
 
 compteurs : travail sur les bases data.gouv de comptage de vélos, affichage des points de comptage en temps réel (de la requête) en fonction du niveau de congestion observé
 
-Aménagements_visualisation : carte des pistes (à double sens) en fonction du type en ilde de france 
+Visualisation_pistes : carte des pistes (à double sens) en fonction du type en ilde de france 
