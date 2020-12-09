@@ -13,3 +13,7 @@ Découverte_données_vélos : fusion des BDD + calcul des stations les plus proc
 Trajet_GPS_complet : trajet complet entre deux adresses choisies par l'utilisateur 
 
 prolongement_meteo : donne en temps réel la météo pour le cycliste (température et précipitations) , ainsi que l'éclairage (jour/nuit)
+
+compteurs : travail sur les bases data.gouv de comptage de vélos, affichage des points de comptage en temps réel (de la requête) en fonction du niveau de congestion observé
+
+Aménagements_visualisation : carte des pistes (à double sens) en fonction du type en ilde de france 
