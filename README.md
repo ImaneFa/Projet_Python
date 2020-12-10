@@ -10,7 +10,7 @@ velo_paris : affichage des accidents et de leurs clustering + données sur les c
 
 Découverte_données_vélos : fusion des BDD + calcul des stations les plus proches des points de départ et d'arrivée 
 
-Trajet_GPS_complet : trajet complet entre deux adresses choisies par l'utilisateur 
+Trajet_GPS_complet : trajet complet entre deux adresses choisies par l'utilisateur + possibilité d'emprunter ou non un vélo + possibilité de signaler quelque chose sur le trajet
 
 prolongement_meteo : donne en temps réel la météo pour le cycliste (température et précipitations) , ainsi que l'éclairage (jour/nuit)
 
