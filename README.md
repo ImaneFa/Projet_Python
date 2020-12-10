@@ -23,15 +23,15 @@ Visualisation_pistes : carte des pistes (à double sens) en fonction du type en 
 
   Introduction : screen du folium final pour UN MAX DE TEASING
   
-  I. Visualisation : faire du vélo en IDF
-    1) Amenagements cyclables en IDF
-    2) Vélib & cie
-    3) Accidents de vélos
+  \n\nI. Visualisation : faire du vélo en IDF
+    \n1) Amenagements cyclables en IDF
+    \n2) Vélib & cie
+    \n3) Accidents de vélos
     
-  II. Personnalisation du GPS : modules d'information et de prévention
-    1) Accidents : clusters
-    2) Météo
-    3) Congestion des pistes 
+  \n\nII. Personnalisation du GPS : modules d'information et de prévention
+    \n1) Accidents : clusters
+    \n2) Météo
+    \n3) Congestion des pistes 
     
-  III. Utilisation du GPS
-    1) Trajet GPS complet avec option vélo perso ou non + affichage de tous les modules présentés dans le II. 
+  \n\nIII. Utilisation du GPS
+    \n1) Trajet GPS complet avec option vélo perso ou non + affichage de tous les modules présentés dans le II. 
