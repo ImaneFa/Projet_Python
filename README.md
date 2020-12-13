@@ -12,6 +12,8 @@ compteurs : travail sur les bases data.gouv de comptage de vélos, affichage des
 
 Visualisation_pistes : carte des différents types d'aménagements en Ile de France (affichage au choix par l'utilisateur) 
 
+Visualisation_velos : carte des stations de vélos (Vélib, Véligo et Vélos2) en Ile de France + fusion et nettoyage des bases de données
+
 GPS :  trajet complet entre deux adresses choisies par l'utilisateur + possibilité d'emprunter ou non un vélo + possibilité de signaler quelque chose sur le trajet + affichage des lieux accidentogènes
 
 **Plan du notebook final : **
