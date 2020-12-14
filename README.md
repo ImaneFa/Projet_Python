@@ -16,6 +16,8 @@ Visualisation_velos : carte des stations de vélos (Vélib, Véligo et Vélos2) 
 
 GPS :  trajet complet entre deux adresses choisies par l'utilisateur + possibilité d'emprunter ou non un vélo + possibilité de signaler quelque chose sur le trajet + affichage des lieux accidentogènes
 
+prolongement_statistique_de_meteo : idée qui n'ont pas pu être menées jusqu'au terme
+
 légendes : codes html pour les légendes folium
 
 **Plan du notebook final : **
