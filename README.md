@@ -1,4 +1,4 @@
-# Mise au point d'un système de GPS pour cycliste personnalisable :bike:
+# Mise au point d'un GPS pour cycliste  :bike:
 
 Bienvenue sur le Github présentant notre Projet python. Notre but était simple : faciliter les trajets des cyclistes, en leur proposant un trajet sécurisée et rapide, qu'ils aient ou non leur propre vélo. Pour améliorer ce GPS, nous avons également pris en compte d'autres paramètres, comme la congestion sur les pistes et la météo à l'heure de la requête. 
 Pour trouver notre notebook officiel, il suffit de cliquer sur celui qui s'intitule "Trajet-GPS"
