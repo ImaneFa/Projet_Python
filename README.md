@@ -5,10 +5,10 @@ Pour trouver notre notebook officiel, il suffit de cliquer sur celui qui s'intit
 
 
 
-### Récapitulatif des notebooks présants sur notre Github : 
+### Récapitulatif des notebooks présents sur notre Github : 
 
 - Trajet_GPS : notebook final renvoyant aux autres notebooks 
-- Visualisation_pistes : carte des différents types d'aménagements en Ile de France (affichage au choix par l'utilisateur) 
+- Visualisation_pistes : carte des différents types d'aménagements en Ile-de-France (affichage au choix par l'utilisateur) 
 - Visualisation_velos : carte des stations de vélos (Vélib, Véligo et Vélos2) en Ile de France + fusion et nettoyage des bases de données
 - Découverte_données_vélos : fusion des bases de données et calcul des stations les plus proches des points de départ et d'arrivée 
 - velo_paris : affiche les accidents impliquant des cyclistes ainsi que la méthode de clustering permettant de trouver les lieux accidentogènes 
